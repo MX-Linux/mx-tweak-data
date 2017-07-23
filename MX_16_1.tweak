@@ -1,0 +1,21 @@
+#mx-tweak theme file
+
+Name=MX 16.1
+
+#panel_settings
+
+background-color=4065,5962,9045,65535
+background-image=none
+background-style=0
+
+#xsettings
+xsettings_gtk_theme=Greybird-mx16-thick-grip
+xsettings_icon_theme=Papirus-GTK
+
+#xfwm4
+xfwm4_window_decorations=Arc-Dark
+
+
+
+
+
