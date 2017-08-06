@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 7.0.50~)
 Package-List:
  mx-tweak-data deb admin optional arch=all
 Checksums-Sha1:
- abe94ebd9c681d86a1d74e3220ddeafcdb0b567c 1520 mx-tweak-data_17.7.tar.xz
+ 343a6da66b41759322dca8c8ca29a6d2637f6ae0 3312 mx-tweak-data_17.7.tar.xz
 Checksums-Sha256:
- af008e33cfc1855f88fbb7ff5c263a5735a5d31708c1f553d093fe7c1820eb74 1520 mx-tweak-data_17.7.tar.xz
+ 57b89a970514588351284648268737b1e88a601e997ff87255610287423fc07e 3312 mx-tweak-data_17.7.tar.xz
 Files:
- 3515389c93a5131dc16a0bbe1ce6b064 1520 mx-tweak-data_17.7.tar.xz
+ a8593bb74187d69a331936c5675fb538 3312 mx-tweak-data_17.7.tar.xz

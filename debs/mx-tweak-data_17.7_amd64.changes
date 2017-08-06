@@ -15,14 +15,14 @@ Changes:
  .
    * initial commit
 Checksums-Sha1:
- 71d2024bf6ebc7b111b26d6c8b9c4b7d7ffd86ea 608 mx-tweak-data_17.7.dsc
- abe94ebd9c681d86a1d74e3220ddeafcdb0b567c 1520 mx-tweak-data_17.7.tar.xz
- c4d74309f07f79136e030b6ac74955e3b1913ddc 1996 mx-tweak-data_17.7_all.deb
+ 58c168f40be081bd32f8641ade62050d64a0c599 608 mx-tweak-data_17.7.dsc
+ 343a6da66b41759322dca8c8ca29a6d2637f6ae0 3312 mx-tweak-data_17.7.tar.xz
+ afde2e96c23843d2d9350f76acdf2d84b2582f2c 3936 mx-tweak-data_17.7_all.deb
 Checksums-Sha256:
- c0b7062f201143631107a5b26fa00d5ba1f345a0a0c8fafa1403ff0883a67797 608 mx-tweak-data_17.7.dsc
- af008e33cfc1855f88fbb7ff5c263a5735a5d31708c1f553d093fe7c1820eb74 1520 mx-tweak-data_17.7.tar.xz
- 23524bf552c1b4ab8e10941de5a4a793f4c44784902e1e259c8565187cc88bd5 1996 mx-tweak-data_17.7_all.deb
+ 9fb4766f31438f31ad8a3ccdac76d47e644e75437bbbaf2dfa09f10cdb9beb22 608 mx-tweak-data_17.7.dsc
+ 57b89a970514588351284648268737b1e88a601e997ff87255610287423fc07e 3312 mx-tweak-data_17.7.tar.xz
+ e3782522ff1f089b2862792b3da840fd93e92fb3a0a2188f49e4a56291f6099f 3936 mx-tweak-data_17.7_all.deb
 Files:
- 6bbb55111801cc2ae875ce388c50eea5 608 admin optional mx-tweak-data_17.7.dsc
- 3515389c93a5131dc16a0bbe1ce6b064 1520 admin optional mx-tweak-data_17.7.tar.xz
- 50c5cc66a38c70ac729e548df18a0834 1996 admin optional mx-tweak-data_17.7_all.deb
+ 78012539ef597f2995725340b3860f02 608 admin optional mx-tweak-data_17.7.dsc
+ a8593bb74187d69a331936c5675fb538 3312 admin optional mx-tweak-data_17.7.tar.xz
+ 912dd032fe730bd4a939c0adb1245ee1 3936 admin optional mx-tweak-data_17.7_all.deb
