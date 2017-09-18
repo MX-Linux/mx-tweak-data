@@ -1,6 +1,6 @@
 #mx-tweak theme file
 
-Name=MX 16.1
+Name=Greybird-Arc-Dark-Papirus
 
 #panel_settings
 
@@ -9,8 +9,8 @@ background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Greybird-mx16-thick-grip
-xsettings_icon_theme=Papirus-GTK
+xsettings_gtk_theme=Greybird-MX17
+xsettings_icon_theme=Papirus
 
 #xfwm4
 xfwm4_window_decorations=Arc-Dark

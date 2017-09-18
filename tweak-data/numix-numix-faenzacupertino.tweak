@@ -1,0 +1,21 @@
+#mx-tweak theme file
+
+Name=Numix-Numix-Faenza-Cupertino
+
+#panel_settings
+
+background-color=4065,5962,9045,65535
+background-image=none
+background-style=0
+
+#xsettings
+xsettings_gtk_theme=Numix
+xsettings_icon_theme=Faenza-Cupertino
+
+#xfwm4
+xfwm4_window_decorations=Numix
+
+
+
+
+
