@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 30 Sep 2017 08:40:01 -0400
+Source: mx-tweak-data
+Binary: mx-tweak-data
+Architecture: source all
+Version: 17.9.02
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-tweak-data - Part of MX program for installing additional packages.
+Changes:
+ mx-tweak-data (17.9.02) mx; urgency=medium
+ .
+   * fixed typo in greybird-arc-dark-papirus.tweak
+Checksums-Sha1:
+ 04cc4d44740f19fbe020dc1586cca25f75ec9d80 620 mx-tweak-data_17.9.02.dsc
+ 77a23e151e52bf4798edd7ffcd6c65e484194f31 3356 mx-tweak-data_17.9.02.tar.xz
+ f385eb7375e8a3241a19fe5bf28e55f48f07b328 3986 mx-tweak-data_17.9.02_all.deb
+ 84f22489dc3a83b5da5f9e0f069c7822a6a31bad 4687 mx-tweak-data_17.9.02_amd64.buildinfo
+Checksums-Sha256:
+ 4762c0f0b13ff46ad889e810581653e864cb704d838d3de88d8df04fd5ae1367 620 mx-tweak-data_17.9.02.dsc
+ 684dcf40b518ec2ccedeb8e862273f4511f303963ff0f4f93bff26232e50477b 3356 mx-tweak-data_17.9.02.tar.xz
+ a22f248c5ee5d1743ee12fed9a50a3e7132da7c2bf028c2fde9c87ea1179b68c 3986 mx-tweak-data_17.9.02_all.deb
+ 35de2da6e2910ee26a90ff75cb0e1e26166b1b2c8d0e1d1f436e4608c1653aef 4687 mx-tweak-data_17.9.02_amd64.buildinfo
+Files:
+ 899544373126728134b043cc926347da 620 admin optional mx-tweak-data_17.9.02.dsc
+ c0cd75d04fff49edaa94622e6ee929ec 3356 admin optional mx-tweak-data_17.9.02.tar.xz
+ 600426229cfe53c5aceef3c00834358f 3986 admin optional mx-tweak-data_17.9.02_all.deb
+ 83db0c17519d37272417006605386150 4687 admin optional mx-tweak-data_17.9.02_amd64.buildinfo
