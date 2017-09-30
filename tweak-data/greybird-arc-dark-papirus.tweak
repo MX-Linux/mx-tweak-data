@@ -9,7 +9,7 @@ background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Greybird-MX17
+xsettings_gtk_theme=Greybird-mx17
 xsettings_icon_theme=Papirus
 
 #xfwm4

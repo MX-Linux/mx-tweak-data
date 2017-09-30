@@ -1,3 +1,9 @@
+mx-tweak-data (17.9.02) mx; urgency=medium
+
+  * fixed typo in greybird-arc-dark-papirus.tweak
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 30 Sep 2017 08:40:01 -0400
+
 mx-tweak-data (17.9.01) mx; urgency=medium
 
   * mx17 changes
