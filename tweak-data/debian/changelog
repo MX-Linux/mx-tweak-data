@@ -1,3 +1,15 @@
+mx-tweak-data (17.11.02) mx; urgency=medium
+
+  * revised for beta 1
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Thu, 02 Nov 2017 20:48:25 -0400
+
+mx-tweak-data (17.11.01) mx; urgency=medium
+
+  * added darker theme
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 30 Oct 2017 23:34:27 -0400
+
 mx-tweak-data (17.9.02) mx; urgency=medium
 
   * fixed typo in greybird-arc-dark-papirus.tweak
