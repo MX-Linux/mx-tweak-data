@@ -1,3 +1,9 @@
+mx-tweak-data (17.11.06) mx; urgency=medium
+
+  * added missing preview image
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 25 Nov 2017 5:56:35 -0400
+
 mx-tweak-data (17.11.05) mx; urgency=medium
 
   * adjustments (removed blackbird theme)
