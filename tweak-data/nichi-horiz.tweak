@@ -1,7 +1,7 @@
 #mx-tweak theme file template
 #save file with a ".tweak" extention
 
-Name=Nichi (use with vertical panel)
+Name=Nichi (use with horizontal panel)
 
 #panel_settings
 #affects all panels
@@ -11,7 +11,7 @@ Name=Nichi (use with vertical panel)
 background-color=4065,5962,9045,65535
 
 #full path to background image
-background-image=/usr/share/mx-tweak-data/taskbar6_theme/taskbar6-vert.png
+background-image=/usr/share/mx-tweak-data/nichi_theme/taskbar6.png
 
 #background style settings
 #2 = background image (takes system color if not specified, as in 0)
@@ -22,12 +22,12 @@ background-style=2
 
 #xsettings - settings as in the Xfce Appearance app
 
-xsettings_gtk_theme=Blackbird
+xsettings_gtk_theme=Arc-Dark
 xsettings_icon_theme=Faenza-Cupertino
 
 #xfwm4 - borders, title bar color, etc...
 
-xfwm4_window_decorations=Blackbird
+xfwm4_window_decorations=Arc-Dark
 
 #whiskermenu themeing
 #place between the code tags below
@@ -44,6 +44,9 @@ style "taskbar6"
 widget "whiskermenu-window*" style "taskbar6"
 
 <end_gtk_whisker_theme_code>
+
+#preview screenshot
+screenshot=nichi-horiz.jpg
 
 
 
