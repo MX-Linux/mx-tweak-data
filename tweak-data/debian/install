@@ -1,3 +1,3 @@
-*.tweak		usr/share/mx-tweak-data
-taskbar6_theme/*	usr/share/mx-tweak-data/taskbar6_theme
+*.*	usr/share/mx-tweak-data
+nichi_theme/*	usr/share/mx-tweak-data/nichi_theme
 

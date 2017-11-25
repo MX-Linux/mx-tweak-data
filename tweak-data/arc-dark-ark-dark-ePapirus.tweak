@@ -15,6 +15,9 @@ xsettings_icon_theme=ePapirus
 #xfwm4
 xfwm4_window_decorations=Arc-Dark
 
+#preview screenshot
+screenshot=mx-dark.jpg
+
 
 
 

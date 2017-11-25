@@ -1,6 +1,6 @@
 #mx-tweak theme file
 
-Name=Numix Theme Faenza-Cupertino Icons
+Name=Numix Themes and Icons
 
 #panel_settings
 
@@ -10,12 +10,13 @@ background-style=0
 
 #xsettings
 xsettings_gtk_theme=Numix
-xsettings_icon_theme=Faenza-Cupertino
+xsettings_icon_theme=Numix
 
 #xfwm4
 xfwm4_window_decorations=Numix
 
-
+#preview screenshot
+screenshot=numix.jpg
 
 
 
