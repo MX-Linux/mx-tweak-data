@@ -7,7 +7,7 @@ Standards-Version: 3.9.5
 Vcs-Git: git://github.com/MX-Linux/mx-tweak-data
 
 Package: mx-tweak-data
-Depends: mx-greybird-themes, arc-theme, faenza-cupertino-icons, numix-gtk-theme, numix-icon-theme
+Recommends: mx-greybird-themes, arc-theme, faenza-cupertino-icons, numix-gtk-theme, numix-icon-theme
 Architecture: all
 Description: Part of MX program for installing additional packages.
  provides .tweak files for mx-tweak
