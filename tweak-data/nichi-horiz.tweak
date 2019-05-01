@@ -47,7 +47,7 @@ xfwm4_window_decorations=Arc-Dark
 /* color is category text*/
 #whiskermenu-window button {
 	background-color: #1A2328;
-
+}
 <end_gtk_whisker_theme_code>
 
 #preview screenshot
