@@ -1,3 +1,9 @@
+mx-tweak-data (19.04.01) mx; urgency=medium
+
+  * update tweak files for gtk3 css style themeing of whisker
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 30 Apr 2019 20:34:03 -0400
+
 mx-tweak-data (19.01.01) mx; urgency=medium
 
   * modified depends to recommends 

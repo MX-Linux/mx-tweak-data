@@ -35,13 +35,18 @@ xfwm4_window_decorations=Arc-Dark
 
 <begin_gtk_whisker_theme_code>
 
-style "taskbar6"
-{
-   bg[NORMAL] = "#1A2328"
-   bg[ACTIVE] = "#1A2328"
-   bg[PRELIGHT] = "#1A2328"
+/*set custom gtk3/css code below */
+/* Background is perimeter border*/
+/* color is cursor, corner triangle, and user name*/
+#whiskermenu-window {
+	background-color: #1A2328;
 }
-widget "whiskermenu-window*" style "taskbar6"
+
+/* Make sidebar buttons match */
+/* Background is area behind category icons and tool bars*/
+/* color is category text*/
+#whiskermenu-window button {
+	background-color: #1A2328;
 
 <end_gtk_whisker_theme_code>
 
