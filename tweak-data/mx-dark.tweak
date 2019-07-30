@@ -1,6 +1,6 @@
 #mx-tweak theme file
 
-Name=MX Light
+Name=MX Dark
 
 #panel_settings
 
@@ -9,14 +9,16 @@ background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Greybird-mx17
-xsettings_icon_theme=Papirus
+xsettings_gtk_theme=Qogir-dark
+xsettings_icon_theme=Papirus-Dark
 
 #xfwm4
-xfwm4_window_decorations=Arc-Dark
+xfwm4_window_decorations=Qogir-dark
 
 #preview screenshot
-screenshot=mx-light.jpg
+screenshot=mx-dark.jpg
+
+
 
 
 
