@@ -4,16 +4,16 @@ Name=MX Dark
 
 #panel_settings
 
-background-color=4065,5962,9045,65535
+background-color=none
 background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Qogir-dark
+xsettings_gtk_theme=Plane-dark
 xsettings_icon_theme=Papirus-Dark
 
 #xfwm4
-xfwm4_window_decorations=Qogir-dark
+xfwm4_window_decorations=Plane-dark
 
 #preview screenshot
 screenshot=mx-dark.jpg

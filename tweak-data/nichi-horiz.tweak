@@ -8,7 +8,7 @@ Name=Nichi (use with horizontal panel)
 
 #panel color
 #panel color must be in the 4 numeral format...see xfconf-settings editor for values
-background-color=4065,5962,9045,65535
+background-color=none
 
 #full path to background image
 background-image=/usr/share/mx-tweak-data/nichi_theme/taskbar6.png
