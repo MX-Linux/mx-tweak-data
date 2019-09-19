@@ -9,11 +9,11 @@ background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Plane-dark
+xsettings_gtk_theme=Matcha-dark-azul
 xsettings_icon_theme=Papirus-Dark
 
 #xfwm4
-xfwm4_window_decorations=Plane-dark
+xfwm4_window_decorations=Matcha-dark-azul
 
 #preview screenshot
 screenshot=mx-dark.jpg
