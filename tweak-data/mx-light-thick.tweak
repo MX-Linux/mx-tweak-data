@@ -1,0 +1,22 @@
+#mx-tweak theme file
+
+Name=MX Light Thick Borders
+
+#panel_settings
+
+background-color=none
+background-image=none
+background-style=0
+
+#xsettings
+xsettings_gtk_theme=Greybird-mx
+xsettings_icon_theme=Papirus
+
+#xfwm4
+xfwm4_window_decorations=Arc-Dark-thick-border
+
+#preview screenshot
+screenshot=mx-light.jpg
+
+
+
