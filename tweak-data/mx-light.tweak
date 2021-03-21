@@ -9,11 +9,11 @@ background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Greybird-mx
+xsettings_gtk_theme=Matcha-azul
 xsettings_icon_theme=Papirus
 
 #xfwm4
-xfwm4_window_decorations=Arc-Dark
+xfwm4_window_decorations=Matcha-azul
 
 #preview screenshot
 screenshot=mx-light.jpg
