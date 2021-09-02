@@ -9,7 +9,7 @@ background-image=none
 background-style=0
 
 #xsettings
-xsettings_gtk_theme=Matcha-dark-azul
+xsettings_gtk_theme=mx-comfort-dark
 xsettings_icon_theme=Papirus-mxbluedark
 
 #xfwm4
